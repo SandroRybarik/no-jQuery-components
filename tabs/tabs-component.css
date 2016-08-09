@@ -1,0 +1,22 @@
+.smoothHide{
+  overflow:hidden;
+  animation: smoothHide .5s ease forwards;
+
+}
+.smoothShow{
+  overflow:hidden;
+  animation: smoothShow .5s ease forwards;
+}
+@keyframes smoothShow{
+  0%{height: 0;}
+  100%{
+  }
+}
+@keyframes smoothHide{
+  0%{}
+  100%{
+    height: 0px;
+    padding:0;
+    display: none;
+  }
+}
