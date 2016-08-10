@@ -5,4 +5,4 @@ ES6 base, babel requied
 
 ## Apis and documentation
 
-jump in [Codepen demostration](http://s.codepen.io/sandrorybarik/debug/rLQRLO)
+jump in [Codepen demostration](http://s.codepen.io/sandrorybarik/full/xOmkBN)
